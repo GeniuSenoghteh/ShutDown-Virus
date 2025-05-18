@@ -47,3 +47,5 @@ print("💡 Tip: To escape, boot into Safe Mode and delete:")
 print("   -", shutdown_path)
 print("   -", voice_path)
 print("\n🎉 Good luck, brave soul.")
+
+time.sleep(5)
