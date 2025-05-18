@@ -22,7 +22,3 @@ To remove the prank:
 2. Open this folder in File Explorer: %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 3. Delete the files: `shutdown.bat` and `voice.vbs`
 4. Reboot and relax 😌
-
-## 🛠️ How to Run
-```bash
-python prank_shutdown.py
