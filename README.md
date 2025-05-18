@@ -4,14 +4,13 @@
 
 This little script is a fun prank that:
 - Creates a `.bat` file that shuts down the computer after 5 seconds.
-- Creates a `.vbs` file that endlessly says "Goodbye Human" using the Windows speech engine.
+- Creates a `.vbs` file that says "Goodbye Human" using the Windows speech engine.
 - Adds both to the Windows startup folder, so they run every time the system starts.
 
 ## ⚠️ WARNING
 This program:
 - Adds itself to Windows startup.
-- Shuts down the system automatically after 5 seconds.
-- Loops a voice message infinitely until manually closed.
+- Shuts down the system automatically.
 
 ### Only run this script on **your own machine** for fun or educational purposes.  
 Running it on someone else's system can be considered **malicious** and may result in your GitHub account being flagged or banned.
